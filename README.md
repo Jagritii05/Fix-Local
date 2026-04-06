@@ -52,5 +52,3 @@ _Or inline:_
 python cli.py debug your_script.py --log "NameError: name 'x' is not defined..."
 ```
 
----
-*Built with Gradio, Rich, and Ollama.*
